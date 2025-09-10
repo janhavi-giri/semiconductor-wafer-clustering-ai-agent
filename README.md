@@ -29,8 +29,8 @@ The easiest way to get started is using Google Colab:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/janhavi-giri/semiconductor-wafer-clustering-agent.git
-cd semiconductor-wafer-clustering-agent
+git clone https://github.com/janhavi-giri/semiconductor-wafer-clustering-ai-agent.git
+cd semiconductor-wafer-clustering-ai-agent
 ```
 
 2. **Install dependencies**
@@ -152,7 +152,7 @@ If you use this project in your research, please cite:
   title={Semiconductor Wafer Clustering AI Agent},
   author={Janhavi Giri},
   year={2025},
-  url={https://github.com/janhavi-giri/semiconductor-wafer-clustering-agent}
+  url={https://github.com/janhavi-giri/semiconductor-wafer-clustering-ai-agent}
 }
 ```
 
